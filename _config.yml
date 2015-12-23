@@ -1,7 +1,7 @@
 name: lookalittlecloser
 favicon: null
 layout_spectrum: 0.5830557884182781
-typography_spectrum: 0.36774279712699354
+typography_spectrum: 0.93726
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.8174159824848175
+  brandStrength: 0.8125
   lightness: 0.6963115395046771
   saturation: 0.7967741945758462
   rhythmicContrast: 0.5392585219815373
