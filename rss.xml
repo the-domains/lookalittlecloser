@@ -4,14 +4,28 @@
         <description><![CDATA[lookalittlecloser]]></description>
         <link>https://thegrid.ai/lookalittlecloser/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 23:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 23:06:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lookalittlecloser/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>My heart is forever young and I love mischief-making–and sparkles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ef974e695182e2ea5d4e639d95757e702b53c76.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lookalittlecloser/c7fb6d04-45b4-4d20-a320-c68ada77bd36/index.html</link>
+            <guid isPermaLink="false">c7fb6d04-45b4-4d20-a320-c68ada77bd36</guid>
+            <pubDate>Sat, 02 Jan 2016 22:59:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d0d193ebf932ed2045d615c50f1fabe514c5b6d.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/lookalittlecloser/1929ffd2-5b19-4c79-a5c9-80df620cb65e/index.html</link>
             <guid isPermaLink="false">1929ffd2-5b19-4c79-a5c9-80df620cb65e</guid>
             <pubDate>Sat, 02 Jan 2016 22:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[elsewhere]]></title>
+            <description><![CDATA[<h1>elsewhere</h1>]]></description>
+            <link>https://thegrid.ai/lookalittlecloser/elsewhere/index.html</link>
+            <guid isPermaLink="false">8e73d789-4f41-46af-a18f-8499610dada8</guid>
+            <pubDate>Sat, 02 Jan 2016 23:06:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +40,6 @@
             <link>https://thegrid.ai/lookalittlecloser/f6568332-8499-4ceb-ab5a-d02d71e3b002/index.html</link>
             <guid isPermaLink="false">f6568332-8499-4ceb-ab5a-d02d71e3b002</guid>
             <pubDate>Sat, 02 Jan 2016 22:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>My heart is forever young and I love mischief-making–and sparkles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ef974e695182e2ea5d4e639d95757e702b53c76.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lookalittlecloser/c7fb6d04-45b4-4d20-a320-c68ada77bd36/index.html</link>
-            <guid isPermaLink="false">c7fb6d04-45b4-4d20-a320-c68ada77bd36</guid>
-            <pubDate>Fri, 01 Jan 2016 23:24:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
