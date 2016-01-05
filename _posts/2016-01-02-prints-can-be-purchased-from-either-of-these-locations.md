@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T20:13:44.053Z'
-dateModified: '2016-01-05T20:12:17.574Z'
+datePublished: '2016-01-05T20:15:18.108Z'
+dateModified: '2016-01-05T20:15:13.862Z'
 title: purchase prints
 author: []
 sourcePath: _posts/2016-01-02-prints-can-be-purchased-from-either-of-these-locations.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 # _purchase prints_
 
-# prints can be purchased from either of these locations. 
+prints can be purchased from either of these locations. 
 
 ➝[society6][0]
 
