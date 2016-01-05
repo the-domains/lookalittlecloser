@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T23:06:11.883Z'
-dateModified: '2016-01-02T23:05:59.721Z'
+datePublished: '2016-01-05T20:13:51.841Z'
+dateModified: '2016-01-05T20:12:30.840Z'
 title: elsewhere
 author: []
+sourcePath: _posts/2016-01-02-elsewhere.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-elsewhere.md
-published: true
 url: elsewhere/index.html
-_type: Article
+_type: WebPage
 
 ---
 # elsewhere
