@@ -1,28 +1,30 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T23:08:58.857Z'
-dateModified: '2016-01-02T23:08:46.768Z'
-title: prints can be purchased from either of these locations.
+datePublished: '2016-01-05T20:13:44.053Z'
+dateModified: '2016-01-05T20:12:17.574Z'
+title: purchase prints
 author: []
+sourcePath: _posts/2016-01-02-prints-can-be-purchased-from-either-of-these-locations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-prints-can-be-purchased-from-either-of-these-locations.md
-published: true
 url: prints-can-be-purchased-from-either-of-these-locations/index.html
-_type: Article
+_type: WebPage
 
 ---
-# _prints can be purchased from either of these locations._
+# _purchase prints_
+
+# prints can be purchased from either of these locations. 
 
 ➝[society6][0]
 
