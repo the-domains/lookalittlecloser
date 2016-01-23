@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T20:15:18.108Z'
-dateModified: '2016-01-05T20:15:13.862Z'
+datePublished: '2016-01-23T15:05:12.262Z'
+dateModified: '2016-01-23T15:05:09.979Z'
 title: purchase prints
 author: []
 sourcePath: _posts/2016-01-02-prints-can-be-purchased-from-either-of-these-locations.md
